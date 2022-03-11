@@ -1,6 +1,6 @@
 TARGET	= ace
 CC	= gcc
-ABC	= /home/ycchen/SummerT2017/4ABC/alanmi-abc-906cecc894b2
+ABC	= ../abc
 
 SRCS	= main.c ntk2cnf.c
 OBJS	= ${SRCS:.c=.o}
